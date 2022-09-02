@@ -1,1 +1,3 @@
-echo school alx yeah
+#!/bib/bash
+echo "ALX"
+echo "ALX School"
